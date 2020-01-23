@@ -10,8 +10,8 @@ n=input("Enter a String: ")
 is_palindrome(n)
 
 
-#---------------------> Another Perfect coding with max()method <---------------------#
-print("\n\n#-----------------> Another Perfect coding with max()method <-----------------#\n\n")
+#---------------------> Another Perfect <---------------------#
+print("\n\n#-----------------> Another Perfect <-----------------#\n\n")
 
 
 def is_palindromee(nam):
